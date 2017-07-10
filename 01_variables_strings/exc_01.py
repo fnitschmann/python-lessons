@@ -1,3 +1,3 @@
-# variables and string exercise 1
+# variables and string - exercise 1
 msg = "Hello World"
 print(msg)

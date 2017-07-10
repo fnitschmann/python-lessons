@@ -1,4 +1,4 @@
-# variables and strings exercise 7
+# variables and strings - exercise 7
 name_with_whitespaces = "   Max "
 
 without_at_beginning = name_with_whitespaces.lstrip()

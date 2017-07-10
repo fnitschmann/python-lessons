@@ -1,4 +1,4 @@
-# variables and strings exercise 4
+# variables and strings - exercise 4
 name = "Peter"
 
 print("Lowercase: %s" % name.lower())

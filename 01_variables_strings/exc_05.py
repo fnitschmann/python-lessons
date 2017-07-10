@@ -1,4 +1,4 @@
-# variables and strings exercise 5
+# variables and strings - exercise 5
 author = "Albert Einstein"
 quote = "A person who never made a mistake never tried anything new."
 
