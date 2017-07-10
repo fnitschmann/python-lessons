@@ -1,4 +1,4 @@
-# numbers - exercise 11
+# lists - exercise 11
 names = ["Anna", "Mandy", "Max", "Paul", "Chris"]
 
 for name in names:
